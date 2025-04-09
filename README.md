@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunocaxias&show_icons=true&theme=dark&locale=en" alt="brunocaxias" /></p>
 
-[![roadmap.sh](https://roadmap.sh/card/tall/67ef195010c87ecc0d892395?variant=dark)](https://roadmap.sh) 
+[![roadmap.sh](https://roadmap.sh/card/tall/67ef195010c87ecc0d892395?variant=dark)](https://roadmap.sh)
