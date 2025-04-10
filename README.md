@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying Design Patterns : Builder](https://dev.to/bccaxias/simplifying-design-patterns-builder-2c0h)
 - [Simplifying Design Patterns: Abstract Factory](https://dev.to/bccaxias/simplifying-design-patterns-abstract-factory-1epn)
 - [Simplifying Design Patterns : Factory Method](https://dev.to/bccaxias/simplifying-design-patterns-factory-method-16f6)
 - [Levantando uma ASP.NET Web API em AWS ECS](https://dev.to/ledsifes/levantando-uma-aspnet-web-api-em-aws-ecs-2701)
 - [Levantando um SQL Server RDS em AWS](https://dev.to/ledsifes/levantando-um-sql-server-rds-em-aws-31fe)
-- [Explorando o AppSmith com uma REST API](https://dev.to/ledsifes/explorando-o-appsmith-com-uma-rest-api-1pc6)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
