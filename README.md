@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno Caxias</h1>
-<h3 align="center">A Backend Developer from Brazil, working toward my goal of becoming a Tech Lead/Software Architect one day.</h3>
+<h3 align="center">Just a Backend Developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunocaxias&label=Profile%20views&color=0e75b6&style=flat" alt="brunocaxias" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bccaxias03.bc@gmail.com**
 
-- ⚡ Fun fact **I'm an extrovert and even though I study a lot about technical skills my most proficient area is in social skills**
+- ⚡ Fun fact **Even though I may look serious or grumpy I'm an extrovert and I love to talk to other people**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
