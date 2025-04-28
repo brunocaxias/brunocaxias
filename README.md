@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Studyng Design Patterns](https://github.com/brunocaxias/DesignPatterns)
 
-- 🌱 I’m currently learning **Design Patterns**
+- 🌱 I’m currently learning **Design Patterns and AWS**
 
 - 📝 I regularly write articles on [https://dev.to/bccaxias](https://dev.to/bccaxias)
 
