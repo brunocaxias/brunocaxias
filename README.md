@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunocaxias" alt="brunocaxias" /></a> </p>
 
-- 🔭 I’m currently working on [Studyng Design Patterns](https://github.com/brunocaxias/DesignPatterns)
+- 🔭 I’m currently working on [Studying Design Patterns](https://github.com/brunocaxias/DesignPatterns)
 
 - 🌱 I’m currently learning **Design Patterns, AWS and Microsservices**
 
